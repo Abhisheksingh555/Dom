@@ -1,31 +1,37 @@
-# 🔢 Counter App
+# 🔢 Counter App (DOM Manipulation)
 
-A simple and responsive counter app built with **HTML, CSS, and JavaScript**.  
-It supports increment, decrement, reset, and error handling when the count reaches zero.  
+A clean and responsive **Counter App** built with HTML, CSS, and JavaScript.  
+It demonstrates DOM manipulation with increment, decrement, reset functionality, and error handling when the value reaches zero.  
 
 ---
 
 ## 🚀 Live Demo  
-👉 [View Live Project](https://your-live-link-here.netlify.app/)  
+👉 [View Live Project](https://abhisheksingh555.github.io/Dom/)  
 
 ---
 
 ## 💻 GitHub Repository  
-👉 [View on GitHub](https://github.com/your-username/counter-app)  
+👉 [View on GitHub](https://github.com/Abhisheksingh555/Dom)  
 
 ---
 
 ## 👀 Preview  
-![Counter App Preview](preview.png)  
+
+### Desktop  
+![Desktop Preview](https://github.com/Abhisheksingh555/Dom/blob/main/assets/preview-1.png?raw=true)  
+
+### Mobile  
+![Mobile Preview](https://github.com/Abhisheksingh555/Dom/blob/main/assets/preview-2.png?raw=true)  
 
 ---
 
 ## ✨ Features  
-- Default count starts at **1**  
-- Increment & decrement buttons  
-- Reset button (resets to **1**)  
-- Shows error message when count reaches **0**  
-- Responsive design for mobile & desktop  
+✅ Default value starts at **1**  
+✅ Increment & decrement buttons  
+✅ Reset button (resets back to **1**)  
+✅ Shows error message when value is **0**  
+✅ Clear button hides when error is shown  
+✅ Fully responsive design for mobile & desktop  
 
 ---
 
@@ -36,9 +42,7 @@ It supports increment, decrement, reset, and error handling when the count reach
 
 ---
 
-## 📂 Project Setup  
-1. Clone the repo  
+## 📂 How to Use  
+1. Clone the repository  
    ```bash
    git clone https://github.com/Abhisheksingh555/Dom.git
-   cd Dom
-
