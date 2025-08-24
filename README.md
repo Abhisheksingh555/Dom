@@ -6,7 +6,7 @@ It demonstrates DOM manipulation with increment, decrement, reset functionality,
 ---
 
 ## 🚀 Live Demo  
-👉 [View Live Project](https://abhisheksingh555.github.io/Dom/)  
+👉 [View Live Project](https://abhisheksingh555-dom.netlify.app/)  
 
 ---
 
